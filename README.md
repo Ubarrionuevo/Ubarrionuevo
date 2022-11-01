@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ubarrionuevo
-- 👀 I’m interested in FrontEnd Development
-- 🌱 I’m currently learning Js & .NET
+- 👀 I’m interested in FrontEnd / Entrepernuship stuff / Web3 
+- 🌱 I’m currently learning Js & .NET & Designer stuff
 - 💞️ I’m looking to collaborate on multiples open source projects
-- 📫 How to reach me ...
+- 📫 How to reach me ulisesbarrionuevo12@hotmail.com
 
 <!---
 Ubarrionuevo/Ubarrionuevo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
