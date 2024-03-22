@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ubarrionuevo
-- 🌱 I’m currently learning Js & .NET , Designer stuff  and Entrepreneurship things 
-
-- 💞️ I’m looking to collaborate on multiples open source projects / Startups / Companys
+- 🌱 I’m currently learning .NET , Designer stuff  and Entrepreneurship things 
 - 📫 How to reach me ubarrionuevo137@gmail.com
 
 <!---
