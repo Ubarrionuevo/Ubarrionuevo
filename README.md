@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ubarrionuevo
-- 🌱 I’m currently learning .NET , Designer stuff  and Entrepreneurship things 
+- 🌱 I’m currently learning .NET and Backend Stuff
 - 📫 How to reach me ubarrionuevo137@gmail.com
 
 <!---
